@@ -1,7 +1,7 @@
 hmt-12A
 =======
 
-Iliad 12, team A.
+Iliad 12, team A.  CHS office 4
 
 
 Initial editing assignment:  Venetus A, folio 154 verso.
