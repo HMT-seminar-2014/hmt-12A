@@ -23,6 +23,31 @@ From here, the format of the book is as follows:
 
 Quire
 
+| quires | folios | signature | lines | notes |
+|  ------	| ------	| ------	| ------	| -----  |  
+|  1 | 12-19 | none | 1.1-1.401 | |  
+|  2 | 20-27 | none | 1.402-2.186 | | 
+|  3 | 28-35 | none | 2.187-592 | |
+|  4 | 36-43 | none | 2.593-3.101 | |
+|  5 | 44-51 | none | 3.102-4.33 | |
+|  6 | 52-59 | none | 4.34-434 | |
+|  7 | 60-67 | none | 4.435-5.285 | |
+|  8 | 68-75 | none | 5.286-685 | three middle sheets (f. 69-74, containing 5.336-636) have fallen out and were restored in the 16th century |
+|  9 | 76-83 | none | 5.686-6.179 | |
+| 10 | 84-91 | none | 6.180-7.50 | |
+| 11 | 92-99 | none | 7.51-455 | vestiges of the upper part of the !{signature ια}[vestiges] |
+| 12 | 100-107 | none | 7.456-8.373 | |
+| 13 | 108-115 | none | 8.374-9.209 | |
+| 14 | 116-123 | none | 9.210-613 | |
+| 15 | 124-131 | none | 9.614-10.301 | |
+| 16 | 132-139 | none | 10.302-11.125 | |
+| 17 | 140-147 | none | 11.126-525 | |
+| 18 | 148-155 | none | 11.526-12.75 | !{vestiges of the signature ιη according to Allen, but no longer visible}[missingvestiges]
+
+
+[vestiges]: urn:cite:hmt:vaimg.VA092RN-0264@0.8168,0.8888,0.0821,0.0436
+[missingvestiges]: urn:cite:hmt:vaimg.VA148RN-0320@0.7277,0.8783,0.1782,0.0721
+
 (Team A)
 
 ## The "text hand" (hand of the *Iliad* text) ##
