@@ -1,6 +1,7 @@
 # The Venetian Homer in 2014 #
 
-## Introduction
+## Introduction ##
+
 
 (Editorial team)
 
