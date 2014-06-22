@@ -1,9 +1,7 @@
 project.ext {
 
-    // URN of folio or papyrus column you want to verify
-    // should be supplied via gradle task.
-    //folio = "urn:cite:hmt:msA.137v"
-
+  textInventory="/vagrant/hmt-12A/editions/inventory.xml"
+  textArchive="/vagrant/hmt-iliad11/editions"
 
     // Lists of index files to use in verification:
     folioToImage = "/vagrant/hmt-12A/indices/venA-folioToImage.csv"
