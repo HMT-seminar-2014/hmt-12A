@@ -1,7 +1,7 @@
 project.ext {
 
   textInventory="/vagrant/hmt-12A/editions/inventory.xml"
-  textArchive="/vagrant/hmt-iliad11/editions"
+  textArchive="/vagrant/hmt-12A/editions"
 
     // Lists of index files to use in verification:
     folioToImage = "/vagrant/hmt-12A/indices/venA-folioToImage.csv"
