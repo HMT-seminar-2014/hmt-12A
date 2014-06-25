@@ -37,7 +37,43 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.1</p>
                         </div>
                         <div type="comment">
-                            <p>Πάτροκλος ὁ Μενοιτίου τρεφόμενος ἑν Οποῦντι τῆς Λοκρίδος. περιέπεσεν ἀκουσίῳ πταίσματι παῖδα γὰρ ἡλικιώτην Ἀμφιδάμαντος οὐκ ασήμου Κλεισώνυμον ἢ ὅς τινές Ἀίαν ὀργὶσθες ἀπέκτεινεν. ἐπὶ τούτῳ δὲ φυγὼν εἰς Φθίαν ἀφίκετο κακεῖ κατα συγγένειαν Πηλέως Ἀχιλλεῖ συνῆν. φιλίαν δ᾽ ὑπερβάλλουσαν προς ἀλλήλους διαφυλάξαντες, ὁμοῦ ἐπι Ἴλιον ἐστράτευσαν ἡ ἱστορία παρα Ἑλλανικῷ</p>
+                            <p><persName n="urn:cite:hmt:pers.pers158">Πάτροκλος</persName> ὁ
+                                    <persName n="urn:cite:hmt:pers.pers504">Μενοιτίου</persName>
+                                τρεφόμενος ἐν Οποῦντι τῆς <placeName n="urn:cite:hmt:place.place95"
+                                    >Λοκρίδος</placeName>. περιέπεσεν ἀκουσίῳ πταίσματι παῖδα γὰρ
+                                ἡλικιώτην <persName n="urn:cite:hmt:pers.pers470"
+                                    >Ἀμφιδάμαντος</persName> οὐκ ασήμου Κλισώνυμον ἢ ὥς τινες Αἴαν
+                                ὀργισθεὶς ἀπέκτεινεν. ἐπὶ τούτῳ δὲ φυγὼν εἰς <placeName
+                                    n="urn:cite:hmt:place.place34">Φθίαν</placeName> ἀφίκετο κακεῖ
+                                κατα συγγένειαν <persName n="urn:cite:hmt:pers.pers184"
+                                    >Πηλέως</persName>
+                                <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεῖ</persName> συνῆν.
+                                φιλίαν δ᾽ ὑπερβάλλουσαν προς ἀλλήλους διαφυλάξαντες, ὁμοῦ ἐπι
+                                    <placeName n="urn:cite:hmt:place.place6">Ἴλιον</placeName>
+                                ἐστράτευσαν ἡ ἱστορία παρα <persName n="urn:cite:hmt:pers.pers303"
+                                    >Ἑλλανικῷ</persName></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A3" type="scholion">
+                        <div type="lemma">
+                            <p>ἰ̈ᾶτ' <persName n="urn:cite:hmt:pers.pers244">Εὐρύπυλον</persName> βεβλημένον</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.2</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι τὰ ἅμα γινόμενα, οὐ δύναται ἅμα ἐξαγγέλλειν· ἐν ὅσῳ δὲ οὗτος ἰᾶτο ἐκεῖνοι ἐμάχοντο</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A4" type="scholion">
+                        <div type="lemma">
+                            <p> τάφρος <sic>ἐῦˆτι</sic> σχήσεϊν <rs type="ethnic" n="urn:cite:hmt:pers.pers66">Δαναῶν</rs></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.4</p>
+                        </div>
+                        <div type="comment">
+                            <p>πλάσας τεῖχος ὁ ποιητὴς εἰς τιμὴν τοῦ Ἀχιλλέως, μετα τοῦτο ἀπολλύμεν ἀπώλειαν αὐτοῦ εἶπεν.</p>
                         </div>
                     </div>
                 </body>
