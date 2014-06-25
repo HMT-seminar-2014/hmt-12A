@@ -73,10 +73,40 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.4</p>
                         </div>
                         <div type="comment">
-                            <p>πλάσας τεῖχος ὁ ποιητὴς εἰς τιμὴν τοῦ Ἀχιλλέως, μετα τοῦτο ἀπολλύμεν ἀπώλειαν αὐτοῦ εἶπεν.</p>
+                            <p>πλάσας τεῖχος ὁ ποιητὴς εἰς τιμὴν τοῦ <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλέως</persName>, μετα τοῦτο ἀπολλύμενον αὐτὸ εἰσάγει ἵνα μὴ ἐλέγκηται αὐτοῦ τὸ ψεῦδος ὡς μὴ γενομένου ὑπο τῶν μεταγενεστέρων καὶ τὴν ἀπώλειαν αὐτοῦ εἶπεν</p>
                         </div>
                     </div>
-                </body>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A5" type="scholion">
+                        <div type="lemma">
+                            <p>εὐρὺ το ποιήσαντο </p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.5</p>
+                        </div>
+                        <div type="comment">
+                            <p>βέλτιον τὸ εὑρὺ τοῖς ἐπάνω συνάπτειν ἀμφίβολον δὲ πότερον ὕπερθεν εὑρὺ, ἀρετῆ γὰρ τείχους ἕως ἄνω πεπλατύνθαι ἢ ὃ καὶ βέλτιον ὕπερθε τῆς τάφρου ταύτης γὰρ ὑπέρκειται</p>
+                        </div>
+                    </div><div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A6" type="scholion">
+                        <div type="lemma">
+                            <p>ἤλασαν, οὐδὲ θεοῖσι</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.6</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸ ἑξῆς ἀμφίβολον ἤτοι γὰρ οὕτως ἔχει τὸ ποιήσαντο νεῶν ὕπερ, ὄφρα σφιν νῆάς τε. ἢ οὐδε θεοῖσι δόσαν κλειτὰς ἑκατόμβας ὄφρα σφιν νῆάς τε θοὰς ὃ καὶ βέλτιον· εἰ δε δια μέσου εἴη, οὐδε θεοῖς δόσαν οὕτω καὶ διορθωθήσεται</p>
+                        </div>
+                    </div><div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A7" type="scholion">
+                        <div type="lemma">
+                            <p>ὄφρα μὲν <persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName> ζωὸς ἔην</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.10</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὑποστικτέον ἐπι τὸ έην. καὶ <persName n= "urn:cite:hmt:pers.pers1">Ἀχιλλεὺς</persName> καὶ ἔπλεν· ἡ γὰρ ἀντίδοσις τόφρα δὲ καὶ μέγα τεῖχος, τοῦ δέ περισσευοντος κατα τὸ σύνηθες</p>
+                        </div>
+                    </div></body>
             </text>
         </group>
     </text>
