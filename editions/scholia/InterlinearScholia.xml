@@ -5,7 +5,7 @@
             <titleStmt>
                 <title>Venetus A Interlinear Scholia</title>
 
-                <author>YOR NAME HERE</author>
+                <author>Shannon Young, Melody Wauke, Michiel Cock</author>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -19,15 +19,70 @@
         <group n="12">
             <text n="msAil">
                 <body>
-                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.1" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.A1" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.1</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p><choice><abbr>οuτ</abbr><expan>oὕτως</expan></choice> μὲν <choice><abbr>οuτ</abbr><expan>οὗτος</expan></choice></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.A2" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.1</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐν ταῖς σκηναῖs</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.A3" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.3</p>
+                        </div>
+                        <div type="comment">
+                            <p>παμπληθί</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.A4" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.4</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸ όρυγμα</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.A5" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.4</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀνθέξειν</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.A6" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.4</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀνθέξειν</p>
                         </div>
                     </div>
                 </body>
