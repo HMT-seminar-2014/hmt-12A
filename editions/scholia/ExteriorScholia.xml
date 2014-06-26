@@ -18,15 +18,15 @@
         <group n="12">
             <text n="msAext">
                 <body>
-                    <div n="urn:cts:greekLit:tlg5026.msAext.hmt:12.??" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAext.hmt:12.A1" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ὀφρα μεν <persName n="urn:cite:hmt:pers.pers172">Ἑκτωρ</persName> ζωὸς</p>
                         </div>
                         <div type="ref">
-                            <p></p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.10</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>ἀπορίαν εἰκότως παρεχει τὰ έπη ταῦτα ἃ περι τοῦ τείχους τῶν Ἀχαιῶν. ὁ Ὁμηρος ἀναπεφωνηκε· ὄφρα μὲν <persName n="urn:cite:hmt:pers.pers172">Ἑκτωρ</persName> ζωὸς έην. καὶ μηνι᾽ <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλευς</persName> καὶ <persName n="urn:cite:hmt:pers.pers145">Πριάμοιο</persName> άνακτος ἀπόρθητος πόλις ἐπλε τόφρα δὲ καὶ μέγα τεῖχος <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs> ἔμπεδον ἐφ όσον ὁ μὲν Ἑκτωρ έζη Ἀχιλλεὺς δὲ ἐμήνιεν ἡ δε τοῦ Πριάμου <choice><abbr>πο</abbr><expan>πόλις</expan></choice> ἀνάλωτος ἔμενεν· μετα δὲ τὴν ἁλωσιν Ἰλίου καὶ τον ἀπόπλουν τῶν Ἀχαιῶν τοτε κατερίφθη, ὅτι γράφεται τοῦ πολὲμου συνεστῶτος. καὶ Ἀχιλλέυς μὲν μηνίοντος Ἑκτωρος δὲ περιόντος καὶ ἀριστεύοντος, ὑπο τῶν Τρωων τὸ τεῖχος τῶν Αχαιῶν κατερίφθη καὶ διοδευσιμον γέγονε τοῖς πολεμίοις· ὁ μὲν γὰρ Σαρπηδων τὰς ἐπάλξεις αὐτοῦ καὶ μέρος τί καταβέβληκεν· ο δε Ἑκτωρ καὶ τὰς πύλας διέρρηξεν· ὁ δὲ Ἀπόλλων σχεδὸν ὅλον αὐτὸ διέλυσε τὸ καταριφθὲν οῦν τεῖχος οὐχ ὑπ <choice><abbr>ανων</abbr><expan>ἀνθρώπων</expan></choice> μόνον ἀλλα καὶ θεῶν ἐν τῶ τῆς μήνιδος </p>
                         </div>
                     </div>
                 </body>
