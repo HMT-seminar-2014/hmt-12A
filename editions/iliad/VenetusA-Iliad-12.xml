@@ -5,7 +5,9 @@
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>YOUR NAME EHERE</editor>
+        <editor>Shannon Young
+        Melody Wauke
+        Michiel Cock</editor>
 
       </titleStmt>
       <publicationStmt>
@@ -19,31 +21,31 @@
   <text>
     <body>
       <div n="12">
-        <l n="1"> ὣς ὃ μὲν ἐν κλισίῃσι Μενοιτίου ἄλκιμος υἱὸς </l>
-        <l n="2">ἰᾶτ᾽ Εὐρύπυλον βεβλημένον: οἳ δὲ μάχοντο</l>
-        <l n="3">Ἀργεῖοι καὶ Τρῶες ὁμιλαδόν: οὐδ᾽ ἄρ᾽ ἔμελλε</l>
-        <l n="4">τάφρος ἔτι σχήσειν Δαναῶν καὶ τεῖχος ὕπερθεν</l>
-        <l n="5">εὐρύ, τὸ ποιήσαντο νεῶν ὕπερ, ἀμφὶ δὲ τάφρον</l>
-        <l n="6">ἤλασαν: οὐδὲ θεοῖσι δόσαν κλειτὰς ἑκατόμβας:</l>
+        <l n="1"> ὡς ὁ μὲν ἐν κλισίῃσι <persName n="urn:cite:hmt:pers.pers504">Μενοιτίου</persName> ἄλκιμος υἱὸς</l>
+        <l n="2">ἰ̈ᾶτ᾽ <persName n="urn:cite:hmt:pers.pers244">Ἐυρύπυλον</persName> βεβλημένον. οἱ δὲ μάχοντο</l>
+        <l n="3"><rs type="ethnic" n="urn:cite:hmt:place.place114">Ἀργεῖοι</rs> καὶ <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶες</rs> ὁμιλαδόν. οὐδ᾽ ὰρ ἔμελλε</l>
+        <l n="4">τάφρος ἔτι σχήσειν <rs n="urn:cite:hmt:pers.pers66" type="ethnic">Δαναῶν</rs>. καὶ τεῖχος ὕπερθεν</l>
+        <l n="5">ἐυρὺ, τὸ ποιήσαντο, νεῶν ὕπερ, ἀμφὶ δὲ τάφρον</l>
+        <l n="6">ἤλασαν· οὐδὲ θεοῖσι δόσαν κλειτὰς ἑκατόμβας.</l>
         <l n="7">ὄφρά σφιν νῆάς τε θοὰς καὶ ληΐδα πολλὴν</l>
-        <l n="8">ἐντὸς ἔχον ῥύοιτο: θεῶν δ᾽ ἀέκητι τέτυκτο</l>
-        <l n="9">ἀθανάτων: τὸ καὶ οὔ τι πολὺν χρόνον ἔμπεδον ἦεν.</l>
-        <l n="10">ὄφρα μὲν Ἕκτωρ ζωὸς ἔην καὶ μήνι᾽ Ἀχιλλεὺς</l>
-        <l n="11">καὶ Πριάμοιο ἄνακτος ἀπόρθητος πόλις ἔπλεν,</l>
-        <l n="12">τόφρα δὲ καὶ μέγα τεῖχος Ἀχαιῶν ἔμπεδον ἦεν.</l>
-        <l n="13">αὐτὰρ ἐπεὶ κατὰ μὲν Τρώων θάνον ὅσσοι ἄριστοι,</l>
-        <l n="14">πολλοὶ δ᾽ Ἀργείων οἳ μὲν δάμεν, οἳ δὲ λίποντο,</l>
-        <l n="15">πέρθετο δὲ Πριάμοιο πόλις δεκάτῳ ἐνιαυτῷ,</l>
-        <l n="16">Ἀργεῖοι δ᾽ ἐν νηυσὶ φίλην ἐς πατρίδ᾽ ἔβησαν,</l>
-        <l n="17">δὴ τότε μητιόωντο Ποσειδάων καὶ Ἀπόλλων</l>
-        <l n="18">τεῖχος ἀμαλδῦναι ποταμῶν μένος εἰσαγαγόντες.</l>
-        <l n="19">ὅσσοι ἀπ᾽ Ἰδαίων ὀρέων ἅλα δὲ προρέουσι,</l>
-        <l n="20">Ῥῆσός θ᾽ Ἑπτάπορός τε Κάρησός τε Ῥοδίος τε</l>
-        <l n="21">Γρήνικός τε καὶ Αἴσηπος δῖός τε Σκάμανδρος</l>
-        <l n="22">καὶ Σιμόεις, ὅθι πολλὰ βοάγρια καὶ τρυφάλειαι</l>
-        <l n="23">κάππεσον ἐν κονίῃσι καὶ ἡμιθέων γένος ἀνδρῶν:</l>
-        <l n="24">τῶν πάντων ὁμόσε στόματ᾽ ἔτραπε Φοῖβος Ἀπόλλων,</l>
-        <l n="25">ἐννῆμαρ δ᾽ ἐς τεῖχος ἵει ῥόον: ὗε δ᾽ ἄρα Ζεὺς</l>
+        <l n="8">ἐντὸς ἔχον ῥύοιτο. θεῶν δ᾽ ἀκητι τέτυκτο</l>
+        <l n="9">ἀθανάτων. τὸ καὶ οὔ τι πολὺν χρόνον ἔμπεδον ῆεν·</l>
+        <l n="10">ὄφρα μὲν <persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName> ζωὸς ἔην καὶ μήνι᾽ <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεὺς</persName>.</l>
+        <l n="11">καὶ <persName n="urn:cite:hmt:pers.pers145">Πριάμοιο</persName> ἄνακτος ἀπόρθητος πόλις ἔπλε.</l>
+        <l n="12">τόφρα δὲ καὶ μέγα τεῖχος <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs> ἔμπεδον ῆεν·</l>
+        <l n="13">αὐτὰρ ἐπεὶ κατὰ μὲν <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs> θάνον ὅσσοι ἄριστοι.</l>
+        <l n="14">πολλοὶ δ᾽ <rs type="ethnic" n="urn:cite:hmt:place.place114">Ἀργείων</rs> οἱ μὲν δάμεν οἱ δὲ λίποντο<unclear>.</unclear></l>
+        <l n="15">πέρθετο δὲ <persName n="urn:cite:hmt:pers.pers145">Πριάμοιο</persName> πόλις δεκάτῳ ἐνιαυτῷ.</l>
+        <l n="16"><rs type="ethnic" n="urn:cite:hmt:place.place114">Ἀργεῖοι</rs> δ᾽ ἐν νηυσὶ φίλην ἐς πατρίδ᾽ ἔβησαν.</l>
+        <l n="17">δὴ τότε μητιόωντο <persName n="urn:cite:hmt:pers.pers47">Ποσιδάων</persName> καὶ <persName n="urn:cite:hmt:pers.pers40">Ἀπόλλων</persName></l>
+        <l n="18">τεῖχος ἀμαλδῦναι. ποταμῶν μένος εἰσαγαγόντες.</l>
+        <l n="19">ὅσσοι ἀπ᾽ <placeName n="urn:cite:hmt:place.place89">Ἰ̈¨δαίων</placeName> ὀρέων ἅλα δὲ προρέουσι·</l>
+        <l n="20"><placeName n="urn:cite:hmt:place.place251">Ῥῆσός</placeName> θ᾽, <placeName n="urn:cite:hmt:place.place253">Ἑπτάπορός</placeName> τε, <placeName n="urn:cite:hmt:place.place255">Κάρησός</placeName> τε, <placeName n="urn:cite:hmt:place.place256">Ῥοδίος</placeName> τε.</l>
+        <l n="21"><placeName n="urn:cite:hmt:place.place254">Γρήνικός</placeName> τε. καὶ <placeName n="urn:cite:hmt:place.place252">Αἴσηπος</placeName>, δῖός τε <placeName n="urn:cite:hmt:place.place93">Σκάμανδρος</placeName>.</l>
+        <l n="22">καὶ <placeName n="urn:cite:hmt:place.place92">Σιμόεις</placeName>. ὅθι πολλὰ βοάγρια καὶ τρυφάλειαι</l>
+        <l n="23">κάππεσον ἐν κονίῃσι· καὶ ἡμιθέων γένος ἀνδρῶν.</l>
+        <l n="24">τῶν πάντων ὁμόσε, στόματ᾽ ἔτραπε <persName n="urn:cite:hmt:person.person40">Φοῖβος Ἀπόλλων</persName>,</l>
+        <l n="25">ἐννῆμαρ δ᾽ ἐς τεῖχος ἵ̈ει ῥόον. ὗε δ᾽ ἄρα <persName n="urn:cite:hmt:person.person8">Ζεὺς</persName></l>
       </div>
     </body>
   </text>
