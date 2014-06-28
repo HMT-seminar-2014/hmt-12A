@@ -1,9 +1,20 @@
-Exterior Scholion urn:cite:hmt:vaimg.VA154VN-0656@0.1542,0.1104,0.4084,0.7678
--very long
--difficult to read in many places (size, fading, hand)
--has a leaf at the end urn:cite:hmt:vaimg.VA154VN-0656@0.487,0.8624,0.0691,0.0135
+# The exterior scholion on 154v #
 
--discusses one word, "ἔμπεδον" "in the ground, firm set" extensively 
+Melody Wauke
+Shannon Young
+Michiel Cock
+
+---
+
+!{Exterior scholion}[extscholion] 
+- very long
+- difficult to read in many places (size, fading, hand)
+- has a !{leaf at the end}[leaf]
+- discusses one word, "ἔμπεδον" "in the ground, firm set" extensively 
+
+---
+
+# Passage in question #
 
 Il. 12.10-12: 
 ὄφρα μὲν Ἕκτωρ ζωὸς ἔην καὶ μήνι᾽ Ἀχιλλεὺς.
@@ -14,8 +25,39 @@ As long as Hektor was living and Achilles continued to rage
 and the city of the ruler Priam was unsacked
 so long the great wall of the Achaeans would be "ἔμπεδον"
 
--one of very few long exterior scholia (cf 12v) urn:cite:hmt:vaimg.VA012VN-0514@0.1162,0.1241,0.0962,0.6496
--"ἔμπεδον" means "firmly set." However, this scholion argues that rather than "firmly set," it should be understood to mean "on the plain." This is because the wall cannot truly be "firmly set" if the Trojans are able to knock it down.
+---
 
-- Comparing this with other manuscripts, it seems that this comes from Porphyry. Manuscript Escorialensis Ω 1.12 folio 104 rector and verso we know to come from Porphyry. urn:cite:hmt:e4img.e4_446 urn:cite:hmt:e4img.e4_137
-- Explicit statement "of Porphyry" urn:cite:hmt:e4img.e4_446@0.033,0.8653,0.084,0.026
+# Unusual length #
+
+- one of very few long exterior scholia (cf !{12v}[12v]) 
+
+---
+
+# The problem with ἔμπεδον #
+
+- "ἔμπεδον" means "firmly set." 
+- The Trojans are able to break it down, therefore it can't be "firmly set" as long as Troy remains unsacked.
+- Thus, the scholion argues that ἔμπεδον should be taken as "on the plain".
+
+---
+
+# Source of argument #
+
+- Comparing this with other manuscripts, this explanation comes from Porphyry. 
+Manuscript Escorialensis Ω 1.12 !{folio 104 recto}[esc104r] 
+and !{verso}[esc104v]
+we know to come from Porphyry.
+- Explicit statement !{"of Porphyry"}[porphyry]
+
+---
+
+# Other interesting note #
+
+Scholion in Ω 1.12 spans two pages, despite discussing one topic.
+
+[extscholion]: urn:cite:hmt:vaimg.VA154VN-0656@0.1542,0.1104,0.4084,0.7678
+[leaf]: urn:cite:hmt:vaimg.VA154VN-0656@0.487,0.8624,0.0691,0.0135
+[12v]: urn:cite:hmt:vaimg.VA012VN-0514@0.1162,0.1241,0.0962,0.6496
+[esc104r]: urn:cite:hmt:e4img.e4_446
+[esc104v]: urn:cite:hmt:e4img.e4_137
+[porphyry]: urn:cite:hmt:e4img.e4_446@0.033,0.8653,0.084,0.026
