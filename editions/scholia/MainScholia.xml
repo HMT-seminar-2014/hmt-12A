@@ -157,6 +157,18 @@
                             </p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A12" type="scholion">
+                        <div type="lemma">
+                            <p>καὶ <placeName n="urn:cite:hmt:place.place92">Σιμόεις</placeName> ὅθι πολλὰ</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.22</p>
+                        </div>
+                        <div type="comment">
+                            <p> ὅτι ἀμφίβολον μὲν ἐπι ποτέρου τῶν ποταμῶν λέγει τοῦ <placeName n="urn:cite:hmt:place.place93">Σκαμάνδρου</placeName> ἡ τοῦ <placeName n="urn:cite:hmt:place.place92">Σιμοῦντος</placeName>. δεκτέον δὲ ἐπι τοῦ <placeName n="urn:cite:hmt:place.place92">Σιμοῦντος</placeName> δια μέσου γὰρ τοῦ πεδίου φέρεται καὶ ὅτι ἀνέγνω <persName n="urn:cite:hmt:pers.pers4">Ἡσίοδος</persName> τὰ <persName n="urn:cite:hmt:pers.pers17">Ὁμήρου</persName> ὡς ἂν νεώτερος τούτου· οὐ γὰρ ἐξενήνοχε τοὺς ποταμοὺς μη ὄντας ἀξιολόγους εἰ μὴ δι <persName n="urn:cite:hmt:pers.pers17">Ὅμηρον</persName>· καὶ τῷ <placeName n="urn:cite:hmt:place.place92">Σιμοῦντι</placeName> προσέθηκεν ἐπίθετον τὸ <cit><q>θεῖόν τε Σιμοῦντα</q><ref type="urn">urn:cts:greekLit:tlg0020.tlg001:342</ref></cit> 
+                            </p>
+                        </div>
+                    </div>
                   </body>
             </text>
         </group>
