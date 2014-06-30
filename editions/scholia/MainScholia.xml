@@ -169,7 +169,37 @@
                             </p>
                         </div>
                     </div>
-                  </body>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A13" type="scholion">
+                        <div type="lemma">
+                            <p>βοάγρια</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.22</p>
+                        </div>
+                        <div type="comment">
+                            <p> τὰ εἰς τὴν βοὴν ἀγειρόμενα. ἢ βόεια γέρρα ὅ ἐστι δέρρα ἐξ ἀγρίων βοῶν γενόμενα</p>
+                        </div>
+                    </div><div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A14" type="scholion">
+                        <div type="lemma">
+                            <p>ἐννῆμαρ δ' ἐς τεῖχος</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.25</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐπι ἐννέα ἡμέρας ἔνιοι δὲ δασέως καὶ δια τοῦ ἑνὸς <rs type= "waw">ν</rs> ἀναγινώσκουσιν ὲν ῆμαρ ἵν‘ ᾖ μιᾷ ἡμέρα ὥστε μὴνιοῦσθαι τὴν τῶν θεῶν δύναμιν μη δυνηθέντων στρέψαι λόγω. θᾶττον δὲ <choice><abbr>υπ</abbr><expan>ὑπὸ </expan></choice> τῶν <rs type="ethnic" n="urn:cite:hmt:place.place3">Ἑλλήνων</rs> ἐν μιᾷ ἡμέρα γεγονός . οἱ δέ φησὶν, δια τοῦτο τέσσαρας ποταμοὺς εἰσάγει καὶ θεοὺς παρίστησιν οὐχ ἵνα μόνον ἀφανίση τὸ τεῖχος . ἀλλὰ καὶ τὸν τόπον δια τὸ μηδὲ ἴχνος φανῆναι </p>
+                        </div>
+                    </div><div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A15" type="scholion">
+                        <div type="lemma">
+                            <p>βοάγρια</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.22</p>
+                        </div>
+                        <div type="comment">
+                            <p> αἱ ἀπο βοείων βυρσῶν κατασκευασθεῖσαι ἀσπίδες</p>
+                        </div>
+                    </div></body>
             </text>
         </group>
     </text>
