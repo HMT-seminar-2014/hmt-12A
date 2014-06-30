@@ -132,7 +132,8 @@
                         <div type="comment">
                             <p>σημειοῦνται τινὲς προς τὰ ἐν τῇ <title n="urn:cts:greekLit:tlg0012.tlg001:7">Ἠ</title> ἀθετούμενα ὅτι καὶ ἐκ τούτων διαβάλλεται προς τὸ πρόσωπον γινόμενα</p>
                         </div>
-                    </div><div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A10" type="scholion">
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A10" type="scholion">
                         <div type="lemma">
                             <p>Κάρησσός τε Ῥοδίος τε</p>
                         </div>
@@ -142,7 +143,21 @@
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers105">Τυραννίων</persName> ὀξύνει τὸ <rs type="waw">Κάρησσος</rs> ὡς <rs type="waw">Παρνασσός</rs>, οὕτως γὰρ ὑπο Κυζικηνῶν ὀνομάζεσθαι τὸν ποταμόν· ὁ δὲ <persName n="urn:cite:hmt:pers.per16">Ἀρίσταρχος</persName> βαρύνει ὡς <rs type="waw">Κάνωβος</rs>· εἴπομεν δὲ ἐν ἑτέροις, ὅτι οὐ πάντως ἐπικρατεῖ ἡ ἀπο τῶν ἐθνῶν χρῆσις καὶ ἐπι τὴν Ὁμηρικὴν ἀνάγνωσιν· ὁπότε περι τοῦ <rs type="waw">Γλίσαντα</rs> διελάβομεν εἴγε <persName n="urn:cite:hmt:pers.pers211">Διονύσιος</persName> ἱστορεῖ τοὺς ἐγχωρίους συστέλλειν τὸ <rs type="waw">ϊ</rs> καὶ μὴ περισπᾶν τό τε <rs type="waw">Λύκαστος</rs> ὁ αυτὸς ϊστορεὶ ὀξύνεσθαι ἡμῶν ἀναγινωσκόντων βαρυτόνως οὕτως οὖν εἰκὸς καὶ ἐπι τοῦ <rs type="waw">Κάρησσος</rs> μὴ πεισθῆναι τὸν <persName n="urn:cite:hmt:pers.per16">Ἀρίσταρχον</persName> ὁμοίως τοῖς ἐγχωρίοις προενέγκασθαι τὴν λέξιν· τάχα δὲ ἐπεὶ ἑώρα τὰ εἰς ληγοντα ὑπερ δύο συλλαβὰς ὀξυνόμενα τῷ <rs type="waw">η</rs> παραληγόμενα ἕτερον ἔχοντα <rs type="waw">ς</rs>, τοῦτο δὲ ἓν ἀναδεξάμενον, διὰ τοῦτο καὶ ἐξήλλαξεν αὐτὸ τῆς ἐκείνων τάσεως· εἴγε τὸ <rs type="waw">Ἀλικαρνησσὸς</rs> δισσὸν ἔχει τὸ <rs type="waw">ς</rs>, <rs type="waw">Λυκαβησσός</rs>, <rs type="waw">Ταρτησσος</rs>· τὸ μέντοι <rs type="waw">Κάρησος</rs> ἓν ἔχει τὸ <rs type="waw">ς</rs>. ἴ̈̈σως οὖν δια τοῦτο ἐξηλλάγη</p>
                         </div>
-                    </div></body>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A11" type="scholion">
+                        <div type="lemma">
+                            <p><placeName n="urn:cite:hmt:place.place256">Ῥοδίος</placeName> τε</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.20</p>
+                        </div>
+                        <div type="comment">
+                            <p>
+                                παροξυτονητέον κύριον. εἰκὸς μέντοι τὸ ὄνομα τοῦ ποταμοῦ έχειν πλεονασμὸν τοῦ <rs type="waw">δ</rs> ἐοικὸς γὰρ τῷ ποταμῷ, παρὰ τὸν <rs type="waw">ῥοῦν</rs> ὠνομάσθαι ὥστε αὐτὸν εἶναι <rs type="waw">ῥοΐον</rs> καὶ <rs type="waw">Ῥοδίον</rs>
+                            </p>
+                        </div>
+                    </div>
+                  </body>
             </text>
         </group>
     </text>
