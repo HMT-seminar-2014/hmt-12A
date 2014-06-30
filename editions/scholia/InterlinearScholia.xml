@@ -24,7 +24,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.1</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.1@ὡς ὁ μὲν</p>
                         </div>
                         <div type="comment">
                             <p><choice><abbr>οuτ</abbr><expan>oὕτως</expan></choice> μὲν <choice><abbr>οuτ</abbr><expan>οὗτος</expan></choice></p>
@@ -35,7 +35,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.1</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.1@ἐν κλισίῃσι</p>
                         </div>
                         <div type="comment">
                             <p>ἐν ταῖς σκηναῖs</p>
@@ -46,7 +46,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.3</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.3@ὁμιλαδὸν</p>
                         </div>
                         <div type="comment">
                             <p>παμπληθί</p>
@@ -57,7 +57,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.4</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.4@τάφρος</p>
                         </div>
                         <div type="comment">
                             <p>τὸ όρυγμα</p>
@@ -68,7 +68,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.4</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.4@σχήσειν</p>
                         </div>
                         <div type="comment">
                             <p>ἀνθέξειν</p>
