@@ -25,6 +25,7 @@ Quire
 
 | quires | folios | signature | lines | notes |
 |  ------	| ------	| ------	| ------	| -----  |  
+|  a | a + 1-11| none |         | Ff. 1, 4, 6, 8, and 9 are originals, and 2, 3, 5, 7, 10, 11 are 16th century
 |  1 | 12-19 | none | 1.1-1.401 | |  
 |  2 | 20-27 | none | 1.402-2.186 | | 
 |  3 | 28-35 | none | 2.187-592 | |
@@ -67,7 +68,7 @@ Quire
 | 40 | 324-327 | none | 24.655-804 | consists of two sheets; text ends on f. 326v; f. 327r is used for !{Hadrian's epigram}[msAHadrian], {Anth. Pal. 9.387}[hadriansepigram]; f. 327v is blank |
 
 
-A signature runs through all the quires from 1 to 40. Ff. 1-11 are numbered continuously in Arabic figures by a late hand, probably the same. There is nothing abormal in these quires from 1 down to 40. The missing sheets and leaves are supplied by sheets and leaves of white levigated vellum, the writing on which is clearly in a 16th century hand. These restorations were apparently made after the book came to Venice, and coincide with the re-signing, the insertion of blank leaves into the prolegomena, the numbering of the prolegomena, and apparently the trimming and gilding of the edges. 
+A signature runs through all the quires from 1 to 40. Allen writes "including the inserted leaves of the late type a 1, a 2, a 3 etc." however, they are not visible on all folios. An example of a visible signature is on folio !{316r.}[visiblesignature] Ff. 1-11 are numbered continuously in Arabic figures by a late hand, probably the same.  There is nothing abormal in these quires from 1 down to 40. The missing sheets and leaves are supplied by sheets and leaves of white levigated vellum, the writing on which is clearly in a 16th century hand. These restorations were apparently made after the book came to Venice, and coincide with the re-signing, the insertion of blank leaves into the prolegomena, the numbering of the prolegomena, and apparently the trimming and gilding of the edges. 
 
 [vestiges11]: urn:cite:hmt:vaimg.VA092RN-0264@0.8168,0.8888,0.0821,0.0436
 
@@ -96,6 +97,8 @@ A signature runs through all the quires from 1 to 40. Ff. 1-11 are numbered cont
 [hadriansepigram]: urn:cts:greekLit:tlg7000.tlg001:9.387
 
 [msAHadrian]: urn:cite:hmt:vaimg.VA327RN-0497@0.1782,0.2089,0.4965,0.1938
+
+[visiblesignature]: urn:cite:hmt:vaimg.VA316RN-0486@0.6567,0.8834,0.0961,0.067
 
 (Team A)
 
