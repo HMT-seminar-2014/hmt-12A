@@ -66,6 +66,9 @@ Quire
 | 39 | 316-323 | λθ | 24.255-24.654 | !{signature partly cut away}[quire39]; Allen had "24.279" as first line, incorrectly; middle sheet (f. 319-320, containing 24.405-504) has fallen out and is restored in the 16th century |
 | 40 | 324-327 | none | 24.655-804 | consists of two sheets; text ends on f. 326v; f. 327r is used for !{Hadrian's epigram}[msAHadrian], {Anth. Pal. 9.387}[hadriansepigram]; f. 327v is blank |
 
+
+A signature runs through all the quires from 1 to 40. Ff. 1-11 are numbered continuously in Arabic figures by a late hand, probably the same. There is nothing abormal in these quires from 1 down to 40. The missing sheets and leaves are supplied by sheets and leaves of white levigated vellum, the writing on which is clearly in a 16th century hand. These restorations were apparently made after the book came to Venice, and coincide with the re-signing, the insertion of blank leaves into the prolegomena, the numbering of the prolegomena, and apparently the trimming and gilding of the edges. 
+
 [vestiges11]: urn:cite:hmt:vaimg.VA092RN-0264@0.8168,0.8888,0.0821,0.0436
 
 [missingvestiges18]: urn:cite:hmt:vaimg.VA148RN-0320@0.7277,0.8783,0.1782,0.0721
